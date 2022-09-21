@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="Fragment1BG">#ffaae8</color>
     <color name="Fragment2BG">#d8fffd</color>
+    <color name="testcommit">#fff</color>
 </resources>
